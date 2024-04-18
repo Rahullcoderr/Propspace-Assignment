@@ -18,4 +18,4 @@ My trained model which is submitted is not fully as I lost my code due to memory
 I have uploaded this file on 18th after trying a new method. I used pre trained model on the data and used the weights of last hidden layer to cluster the images. Then I used the clustered images for image classification. The accuracy came 85 percent. The classification worked well but the problem here was still image clustering didnt occur on basis of lush, empty. 
 
 ## New File Manual
-I have done manual splitting of data into three classes based on month and if I use this for classification, even using simple cnn I am getting 80 percent accuracy for training. If I use powerfull CNN then accuracy more than 90 can be achieved.
+I have done manual splitting of data into three classes based on month and if I use this for classification, even using simple cnn I am getting 80 percent accuracy for training. If I use powerfull CNN like the one I used in Q3 then accuracy more than 90 can be achieved.
