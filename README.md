@@ -14,8 +14,6 @@ I had another idea for K clustering to use the maximum colour in the image for c
 ## Problem
 My trained model which is submitted is not fully as I lost my code due to memory leak but at last I have tested my model by uploading a single image and checking the prediction. THats the only proof I have to tell I have done the model and due to quiz and lab endsems I couldnt spend more time on this. I have actually learnt a lot in short time and I am really passionate about this and I want to continue this. I can learn things quickly and will learn more advanced stuff soon. 
 
-## New File Q3
-I have uploaded this file on 18th after trying a new method. I used pre trained model on the data and used the weights of last hidden layer to cluster the images. Then I used the clustered images for image classification. The accuracy came 85 percent. The classification worked well but the problem here was still image clustering didnt occur on basis of lush, empty. 
+## New File Q4(new)
+I have uploaded this file on 18th after trying a new method. I used pre trained model on the data and used the weights of last hidden layer to cluster the images. Then I used the clustered images for image classification. The accuracy came 85 percent. The classification worked well but the problem here was still image clustering didnt occur on basis of lush, empty. So I did manual splitting of data into three classes based on month and if I use this for classification, I got accuracy of over 80 percent.
 
-## New File Manual
-I have done manual splitting of data into three classes based on month and if I use this for classification, even using simple cnn I am getting 80 percent accuracy for training. If I use powerfull CNN like the one I used in Q3 then accuracy more than 90 can be achieved.
